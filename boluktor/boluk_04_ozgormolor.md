@@ -19,3 +19,4 @@ jash = 18
 
 print(message)  # Экранга: Салам, Python!
 print(jash)     # Экранга: 18
+```
